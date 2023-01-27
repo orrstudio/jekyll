@@ -1,0 +1,4 @@
+- name: Home
+  link: /jekyll
+- name: About
+  link: /jekyll/about.html
