@@ -3,7 +3,5 @@
 - name: About
   link: /jekyll/about
 - name: Blog
-  link: /jekyll/blog.html
-- name: Blog
   link: /jekyll/blog
 
