@@ -34,7 +34,7 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 # User settings
 username: Lorem Ipsum
 user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
+user_title: Orr Developer
 email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
