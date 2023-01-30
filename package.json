@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Nathan Randecker",
+  "author": "Oruj Gafarov",
   "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.26.3",
